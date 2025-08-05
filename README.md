@@ -10,3 +10,5 @@ Share some acttachment of data which will show the proper output of delivery of 
 4. Use metrics from outlet Size, what was that Grocery Store, Supermarket1, Supermarket 2 etc.
 5. Figure out which Item is in Demand Low fat or Regular one.
    # The answers you'll get in the story telling of dashboard
+   <img width="1828" height="751" alt="image" src="https://github.com/user-attachments/assets/9bcae41a-cf73-4304-a4bd-a829d639e253" />
+
